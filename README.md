@@ -117,7 +117,7 @@ chess-app/
 
 ---
 
-## 🎨 Setup
+## 🎨 Frontend Setup
 
 ### Drag and Drop
 
