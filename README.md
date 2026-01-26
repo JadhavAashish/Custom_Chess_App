@@ -117,27 +117,7 @@ chess-app/
 
 ---
 
-## 🎨 Frontend Setup
-
-### Socket.io Initialization
-
-```js
-const socket = io();
-```
-
-### Chess Game Logic
-
-```js
-const chess = new Chess();
-```
-
-### DOM Handling
-
-* Select the chessboard container:
-
-```js
-const boardElement = document.querySelector("#chessboard");
-```
+## 🎨 Setup
 
 ### Drag and Drop
 
@@ -179,24 +159,6 @@ const boardElement = document.querySelector("#chessboard");
 ### Initial Rendering
 
 * Render the board immediately on page load
-
----
-
-## ▶️ How to Run the Project
-
-```bash
-# Install dependencies
-npm install
-
-# Start the server
-node server.js
-```
-
-Open your browser and visit:
-
-```
-http://localhost:3000
-```
 
 ---
 
